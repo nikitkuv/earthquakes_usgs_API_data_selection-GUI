@@ -1,0 +1,2 @@
+# earthquakes_usgs_API_data_selection-GUI
+Version of earthquakes_usgs_API_data_selection script with GUI
